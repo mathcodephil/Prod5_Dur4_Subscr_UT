@@ -1,4 +1,7 @@
 # Prod5_Dur4_Subscr_UT
+
+___Product / Client Analytics Example___
+
 The synthetic dataset with 5 products, 4 durations of subscription, 956 clients, subscription and use time history for 728 days.
 
 2023.05.11. The initial upload of the Dataset itself and
